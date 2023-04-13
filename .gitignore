@@ -1,0 +1,5 @@
+.idea
+Script
+__pycache__
+*.xlsx
+*.7z
